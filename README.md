@@ -1,1 +1,2 @@
-# Fitness-Calendar-App-with-React-native
+# reactnd-udacifitness
+Udacity - React Native Class for app Fitness
